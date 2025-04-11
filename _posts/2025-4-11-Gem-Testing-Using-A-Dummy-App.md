@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing Rails Components with a Dummy App
+author: Garth Gaughan
 ---
 
 I'm currently developing a Ruby gem called `ViewComponentGenerator`. While it's not yet released, its goal is to help developers quickly set up a View Component library in their Rails applications, complete with Tailwind CSS styling, Lookbook integration, and RSpec testing.
