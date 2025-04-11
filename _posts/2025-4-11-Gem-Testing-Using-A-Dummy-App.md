@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Rails Components with a Dummy App
+title: Testing My Rails Gem with a Dummy App
 author: Garth Gaughan
 ---
 
