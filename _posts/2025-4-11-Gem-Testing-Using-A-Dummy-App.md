@@ -20,7 +20,7 @@ group :development, :test do
 end
 ```
 
-Run `bundle install`.
+Run ```bundle install```
 
 Create a test/dummy Directory:
 ```
@@ -29,8 +29,8 @@ test/
 ```
 Generate the Dummy Rails App:
 
-`cd test`
-`rails new dummy --skip-bundle --minimal`
+```cd test```
+```rails new dummy --skip-bundle --minimal```
 
 --skip-bundle:  Don't run bundle install in the dummy app.
 
@@ -110,7 +110,7 @@ end
 ```
 Running Your Tests:
 
-`bundle exec rspec`
+```bundle exec rspec```
 
 ### Key Considerations
 
